@@ -5,4 +5,4 @@ In this repo, one can get the basic and medium level of SQL quries with alternat
 
 SQL stands for structured query language and basically used for create, modify and query data from a database.
 
-Feedbacks/ Suggestions are welcome.
+Feedbacks/ Suggestions are welcome....
